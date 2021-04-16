@@ -1,6 +1,6 @@
-struct GradientUI {
-    var text = "Hello, World!"
-}
+//struct GradientUI {
+//    var text = "Hello, World!"
+//}
 
 #if canImport(UIKit)
 import UIKit
